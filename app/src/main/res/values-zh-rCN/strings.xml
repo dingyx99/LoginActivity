@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">登录演示</string>
+    <string name="userText">欢迎您，</string>
+    <string name="userHint">请输入用户名</string>
+    <string name="username">用户名：</string>
+    <string name="loginButton">登录</string>
+</resources>

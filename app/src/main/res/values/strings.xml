@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="userText">"Welcome, "</string>
+    <string name="userHint">Please enter your username</string>
+    <string name="username">Username:</string>
+    <string name="loginButton">Login</string>
+</resources>
